@@ -1,8 +1,9 @@
 {
   "name": "rmc-security",
   "version": "1.0.0",
-  "description": "",
+  "description": "security bot for RMC discord server",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
